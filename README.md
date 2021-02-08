@@ -1,16 +1,16 @@
-LedControl
+SevenSegments
 ==========
-LedControl is an [Arduino](http://arduino.cc) library for MAX7219 and MAX7221 Led display drivers.
-The code also works with the [Teensy (3.1)](https://www.pjrc.com/teensy/)
+SevenSegments is an [Arduino](http://arduino.cc) library to use a WS2812B LED strip as a 7 segements display.
+It is based on Adafruit_NeoPixel library.
 
 Documentation
 -------------
-Documentation for the library is on the [Github Project Pages](http://wayoda.github.io/LedControl/)
+-
 
 Download
 --------
 The lastest binary version of the Library is always available from the 
-[LedControl Release Page](https://github.com/wayoda/LedControl/releases) 
+[SevenSegments Release Page](https://github.com/cladstrife911/SevenSegments) 
 
 
 Install
